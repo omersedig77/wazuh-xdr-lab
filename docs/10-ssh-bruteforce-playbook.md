@@ -7,7 +7,7 @@ This playbook enriches SSH brute-force alerts with threat intelligence from Viru
 ## Trigger
 
 - **Primary Rule:** `5763` — `sshd: brute force trying to get access`
-- **Additional Matching Rules:** `5760`, `5758`, `2502`, `5551`, `40111`
+- **Additional Matching Rules:** `5760 (sshd: maximum authentication attempts exceeded)`, `5758 (sshd: authentication failed)`
 - **Level Threshold:** `7` or higher
 
 ## Workflow Diagram
