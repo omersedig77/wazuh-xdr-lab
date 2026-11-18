@@ -22,7 +22,7 @@ The lab is built entirely with **free and open-source tools**.
 
 ## 🏗️ Lab Architecture Diagram
 
-![Wazuh XDR Lab Architecture](screenshots/01-architecture/01-lab-network-diagram.jpg)
+<img width="1199" height="1312" alt="wazuh xdr arch" src="https://github.com/user-attachments/assets/38a357f9-40ca-4ac3-9320-9a2b59558661" />
 
 ---
 
