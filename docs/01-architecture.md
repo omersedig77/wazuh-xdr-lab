@@ -6,7 +6,7 @@ The Wazuh XDR lab is built on VMware Workstation 17 Player. All VMs communicate 
 
 ## Lab Architecture Diagram
 
-![Wazuh XDR Lab Architecture](../screenshots/01-architecture/01-lab-network-diagram.jpg)
+<img width="1199" height="1312" alt="wazuh xdr arch" src="https://github.com/user-attachments/assets/2eed7796-b8c3-4f49-89be-10910b598fe9" />
 
 
 ## IP Addressing
